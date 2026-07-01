@@ -1,0 +1,10 @@
+{
+    "model": "RoBERTa Bahasa",
+    "threshold": 0.11,
+    "accuracy": 0.8264462809917356,
+    "balanced_accuracy": 0.8274972229342903,
+    "precision_buli": 0.8602620087336245,
+    "recall_buli": 0.7911646586345381,
+    "f1_buli": 0.8242677824267782,
+    "macro_f1": 0.8264196054991034
+}
